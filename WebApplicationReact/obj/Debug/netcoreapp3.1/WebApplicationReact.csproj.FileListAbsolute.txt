@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\WCFlibrary\WebApplicationReact\obj\Debug\netcoreapp3.1\WebApplicationReact.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WCFlibrary\WebApplicationReact\obj\Debug\netcoreapp3.1\WebApplicationReact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\WCFlibrary\WebApplicationReact\obj\Debug\netcoreapp3.1\WebApplicationReact.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\WCFlibrary\WebApplicationReact\obj\Debug\netcoreapp3.1\WebApplicationReact.AssemblyInfo.cs
+C:\Users\PC\source\repos\WCFlibrary\WebApplicationReact\obj\Debug\netcoreapp3.1\WebApplicationReact.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WCFlibrary\WebApplicationReact\obj\Debug\netcoreapp3.1\WebApplicationReact.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\WCFlibrary\WebApplicationReact\obj\Debug\netcoreapp3.1\WebApplicationReact.MvcApplicationPartsAssemblyInfo.cache
